@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Francisco I´m from Spain, living in **Madrid**, and I´m **Junior Data Analylist**
+My name is Francisco from Spain, actually I´m living in **Madrid**, and I´m **Junior Data Analylist**
 
 *Currently I´m studing Data Analytics at **Pontia.tech** *
 *My favorite programming language is **Python**.*
