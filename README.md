@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 My name is Francisco I´m from Spain, living in **Madrid**, and I´m **Junior Data Analylist**
 
 *Currently I´m studing Data Analytics at **Pontia.tech** *
@@ -23,4 +22,3 @@ My name is Francisco I´m from Spain, living in **Madrid**, and I´m **Junior Da
 Find my resume on my Linkedin [website](www.linkedin.com/in/francisco-nortes-parra)
 or in my email 📫 [email](fnprograming@gmail.com)
 
--->
