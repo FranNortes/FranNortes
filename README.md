@@ -2,9 +2,9 @@
 
 My name is Francisco from Spain, actually I´m living in **Madrid**, and I´m **Junior Data Analylist**
 
-*Currently I´m studing Data Analytics at **Pontia.tech** *
-*My favorite programming language is **Python**.*
-*I want to focus my studies in **Machine Learning** for **pharmacy** industry.*
+Currently I´m studing Data Analytics at **Pontia.tech** 
+My favorite programming language is **Python**.
+I want to focus my studies in **Machine Learning** for **pharmacy** industry.
 
 # Skills
 
@@ -19,6 +19,6 @@ My name is Francisco from Spain, actually I´m living in **Madrid**, and I´m **
 
 # Contact
 
-Find my resume on my Linkedin [website](www.linkedin.com/in/francisco-nortes-parra)
+Find my resume on my [Linkedin](www.linkedin.com/in/francisco-nortes-parra)
 or in my email 📫 [email](fnprograming@gmail.com)
 
