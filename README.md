@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I’m a **Junior Data Analyst** currently based in Madrid, Spain. My journey in data started with a passion for uncovering insights and solving problems through data.
 
@@ -23,7 +23,7 @@ I’m a **Junior Data Analyst** currently based in Madrid, Spain. My journey in 
 
 - Based in **Madrid, Spain** 🌟 
 
-# 🏎 Skills
+## 🏎 Skills
 
 - **Python** with **Pandas** and **Numpy**.
 - **SQL**
@@ -34,7 +34,7 @@ I’m a **Junior Data Analyst** currently based in Madrid, Spain. My journey in 
 - Strong analytical and mathematical skills.
 - Ability to work in a team and independently.
 
-# 📫 Contact
+## 📫 Contact
 
 Find my resume on my [Linkedin](www.linkedin.com/in/francisco-nortes-parra)
 or in my email  [email](fnprograming@gmail.com)
